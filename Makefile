@@ -1,4 +1,4 @@
-#This is a sample Makefile which compiles source files named:
+#This is Makefile which compiles source files named:
 # - tcpechotimeserv.c
 # - tcpechotimecli.c
 # - time_cli.c
